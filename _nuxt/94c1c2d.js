@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{389:function(t,e,l){"use strict";l.r(e);var n=l(20),component=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("WalletRegistry")],1)}),[],!1,null,null,null);e.default=component.exports;installComponents(component,{WalletRegistry:l(387).default})}}]);
